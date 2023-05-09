@@ -5,7 +5,3 @@
 - ``HTML``
 - ``CSS``
 - ``JavaScript``
-
-## 📁 Acesso ao projeto
-
-Você pode acessar o projeto feito por mim clicando [aqui]( https://aliceurzedadev.github.io/robotron2000/).
